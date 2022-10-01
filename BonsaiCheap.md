@@ -7,6 +7,8 @@
 + Identify most critical areas for course
 + Discuss course date (best for repotting / pruning?), length, attendance, budgets, prep (tree availability), etc with Oli
 + Flesh out into training deck/notes + presenter's notes
++ Questions for Mark d'Cruz:
+	- I have the vague sense that micronutrient fertilisation keeps the tree functioning whilst NPK lets it put on bulk.  Is this correct?
 
 ## Intro to bonsai (on the cheap)
 
@@ -25,8 +27,11 @@
 	- Appearance of age
 		- Ramification
 		- "Nebari" (root flare - one of three japanese words you want to know)
-	- Focus or dynamism
-	- Gimmicks: size, fruit, flowers, ???
+		- Proportionality (where possible)
+	- Spread
+		- Focus
+		- Dynamism
+	- Special features: extreme size, flowers / fruit, integral deadwood / rocks
 + Misc fluff
 	- Buddhist principles
 	- General Japanese-ness
@@ -53,19 +58,20 @@
 	- Pruning (recapitulate the natural history)
 	- Repotting (force a strong root ball rather than unnecessary deep/wide roots)
 + ...Occasional drastic action
-	- Styling with Extreme Prejudice
+	- Extreme Styling
 		- trunk splitters
 		- grafting
+		- deadwood styling: jin, shari, uro
+	- Extreme Potting
 		- root over rock
 		- root on rock
 		- kokedama
 		- forests
-		- deadwood styling: jin, shari, uro(?); break out the power tools >:-D
-	- Propagating with Extreme Prejudice
+	- Extreme Propagating
 		- Layering
 		- Air layering
 		- Just cutting big chunks off
-	- Sticking in ground
+	- Sticking in ground to grow out
 	- This section not discussed further here
 + Prepping for display
 	- Pot aesthetics: shape/finish/decoration, "masculine" vs "feminine"
@@ -73,6 +79,8 @@
 	- Last-minute fixes: moss, small branch wiring
 	- Stands & displays
 	- This section not discussed further here
++ End-of-life
+	- Recycling soil etc
 + <Lifecycle diagram>
 
 ### Doing it on the cheap
@@ -83,13 +91,14 @@
 	- Lots of outside growing space, light/shade, etc
 	- Good-quality specialist tools & materials (pots, soils, wire etc)
 	- Experienced bonsai instructor
-	...£££ (or apprenticeship)
++ ...these all take £££ (or apprenticeship)
 + The alternative: YOLO / for science!
-	- Cheap "material": urban yamadori, seeds/cuttings, knocked-down stock, rescued ICBINB
+	- Cheap material: "urban yamadori", seeds/cuttings, knocked-down stock, rescued ICBINB
 	- Improvised tools
 	- Iterative: expect many to die; goal is to learn from mistakes
 	- Training sources: Youtube, community, amateur instructors (!)
 + If your tree is healthy and attractive, how you got there is less important
+	- Corollary: real bonsai practitioners know their way round power tools >:-D
 
 ## Caring for your bonsai
 
@@ -101,14 +110,33 @@
 ### Watering
 + Significance
 	- This _is_ what will kill your first few bonsai!
-	- Under-watering: root hairs die off
+	- Under-watering: root hairs (microscopic) die off
 	- Over-watering: root rot sets in (esp. when overcompensating)
-	- Trad. bonsai soil drains well, is esp. prone to drying out completely
+	- Trad. bonsai soil drains well but is esp. prone to drying out completely
 + When to water
 	- Back-of-hand test
 	- Varies based on: bonsai/pot size; season (and location); species
 + Approaches:
-	1. Dunking (up to slightly below the soil surface; until dampness
+	1. Dunking
+		- Fill a bowl or basin with water
+		- Place bonsai in water with water level slightly below the soil surface
+		- Wait until surface is visibly wet before removing (may take longer or shorter depending on soil type, dryness, how long bonsai has been in pot)
+		- Suitable for up to about 5 bonsai; any more and it starts to take forever
+		- Water impurities tend to be driven upwards over time; water from the top occasionally to rinse them away
+		- Solid fertiliser will just sit on the surface; use liquid feed instead
+	1. "Bottle feeding"
+		- Buy a small spray bottle and (empty) ketchup squeezy bottle and fill with water
+		- Use spray bottle to wet the surface of the soil (or dried sphagnum) to break the surface tension
+		- Gently squeeze water into the soil from close range; pause when the surface gets waterlogged; stop when water starts coming out the bottom
+		- Suitable for up to about 10 bonsai
+		- Appropriate for indoor bonsai where getting water everywhere is a bad thing
+	1. Watering can
+		- Buy a watering can with a slanted rose (e.g. Haws 700ml)
+		- Water _three_ times per pot: once to break the surface tension, once to wet the upper soil, once to go right through; leave a short pause in between
+		- Suitable for ~40-50 outdoor bonsai
+		- Less suitable for indoor due to mess, and gets more time-consuming in hot weather (up to 1/2 hour per day!)
+	1. Garden hose spray nozzle
+		- Easiest approach for large bonsai collections, but requires more up-front effort
 
 ### Pest control
 
@@ -160,11 +188,12 @@
 	- Too little or too much: leaves go funny colours
 + Management
 	- High-quality organic fertilisers: biogold etc
+		- Pellets of organic matter (bonemeal etc)
+		- Fermented first - stops rodents eating them!
 	- Low-quality fertilisers: seaweed juice etc
 	- Plant tonics
 
 ### Air circulation
-
 + Significance
 	- There are these things called "oxygen", "carbon dioxide" and "dust"...
 	- My instructor reckons this is necessary for plant health
@@ -185,19 +214,30 @@
 	- Pruning is what makes a bonsai look _right_
 	- Short inter-node distance
 	- Ramification and fractals
+	- Can encourage smaller leaves
 	- Stops the tree needing more water than the (small pot) roots can provide
 		- Tree branch-to-root ratio
 	- Shape / style
 		- Often trying to recapitulate an imaginary natural history of the tree
 + Timetable
-	- Remove tips when they get past about 5 nodes
-		- Outdoor bonsai: start of year
-		- Waste not, want not
+	- When shoots grow past about 5 nodes, trim tips
+		- Prevents trees wasting effort on stuff you'll only cut off later
+		- Exception is if you _want_ the tree to grow more in that direction (i.e. trunk or primary branch)
+		- Outdoor bonsai: early in year
+		- Indoor bonsai: as needed
 	- When secondary budding starts, prune back to 3 active (buddable) nodes
+		- Encourages "inner growth" (i.e. stops tree getting lanky)
+		- Third node is "sacrificial": intended to be removed at a later date
 		- Outdoor bonsai: some time in summer
-		- "Creates inner growth" (i.e. slaps tree's metaphorical hand down when it tries to get lanky)
-	- Prune for hen growth is slow, but tree is not currently dormant, 
-	- <review pruning section>
+		- Indoor bonsai: as needed
+	- When growth is slow, but tree is not currently dormant, prune heavily if needed
+		- Reduces tree size or changes formal style
+		- Outdoor bonsai: start or end of year
+		- Indoor bonsai: as needed
+	- Remove unwanted growth as it appears
+		- Includes: excess shoots from "congested" nodes
+		- Includes: unwanted "adventitious" shoots - i.e. those that appear randomly in the middle of a stretch of bark
+		- Includes: suckers rising from roots
 
 ### Repotting
 + Significance
