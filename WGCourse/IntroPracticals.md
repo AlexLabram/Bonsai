@@ -1,4 +1,4 @@
-# Bonsai on a Budget: practical exercises
+# Bonsai on a Budget: Practical Exercises
 
 <details>
 
