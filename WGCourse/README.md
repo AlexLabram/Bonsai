@@ -26,6 +26,7 @@ Relatedly, I will probably end up licensing this under [CC-BY](https://chooseali
 
 ### Components
 + [Course contents listing](IntroContents.md): because this list includes the practicals, which may vary depending on course location and resources
-+ [Practical exercises](IntroPracticals.md): because they don't follow the same structure as the theory, and may vary slightly depending on course location and resources (e.g. if I start doing a higher-budget bonsai bootcamp)
++ [Bonsai theory](TheoryMain.md): the meat of the courseware
++ [Practical exercises](IntroPracticals.md): split off because they don't follow the same structure as the theory, and may vary slightly depending on course location and resources (e.g. if I start doing a higher-budget bonsai bootcamp)
 + [April 2023 event page](2023-04_WGIntro.md) for non-reuseable info
 
