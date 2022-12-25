@@ -1,20 +1,93 @@
-# How to Do Bonsai (on the Cheap)
+# Bonsai on a Budget
 
 <details>
 
 ## Meta - remove before release
 
 ### To do
+
 + Finish first draft of outline
 + Identify most critical areas for course
-+ Discuss course date (best for repotting / pruning?), length, attendance, budgets, prep (tree availability), etc with Oli
++ Sort out course budget and ordering reqs
 + Flesh out into training deck/notes + presenter's notes
-+ Questions for Mark d'Cruz:
-	- I have the vague sense that micronutrient fertilisation keeps the tree functioning whilst NPK lets it put on bulk.  Is this correct?
+	- Make sure headings are aligned with summary
++ Drag in additional preparatory info?  Materials etc
+
+### Course details
+
+See online [here].(https://walworthgarden.org.uk/workshop-events/bonsai-on-a-budget)
+
+Key details:
++ 22 April 2023 (Saturday)
+	- i.e. when leaves are showing but before pre-summer growth is complete / irreversable
++ 10:00 AM - 3:00 PM (i.e. 4 hours + lunch hour?)
+	- ...I did the maths and the course I have planned comes out to 4.5 hours.  D'oh.
+
+Blurb for future reference:
+
+> The ancient art of bonsai - growing trees in miniature - can be frustrating for first-timers and expensive for enthusiasts.
+
+> In this workshop, you'll learn how to keep a bonsai alive, healthy and attractive. We will identify cheap alternatives to some expensive traditional tools and materials, and help you seek out trees suitable for the beginner on a budget.
+
+> Together we will explore:
+
+> + The history and aesthetics of bonsai: what characteristics are prized by enthusiasts and why.
+
+> + How to find and select suitable trees and pots for use as bonsai starter material.
+
+> + How to keep a bonsai alive, and why this is so much harder than for a typical pot plant.
+
+> + Going beyond survival: the support a tree needs to thrive as a bonsai.
+
+> The workshop will provide you with hands-on experience of key bonsai activities such as repotting, wiring and pruning. You will go away with your very own beginner's bonsai... perhaps the first of your future collection!
+
+> This course is suitable for all levels of horticultural experience; no gardening experience required. Basic material will be provided, including appropriate seedlings, but participants are also welcome to bring their own.
+
+> If bringing a tree, please email us its species, approximate dimensions, and whether it has previously been treated as a bonsai after booking.
+
+"CV" for future reference:
+
+> Alex developed a bonsai addiction shortly before the pandemic, just in time to fill in for actual face-to-face contact. When not training under his instructor, the bonsai expert Mark d'Cruz, Alex favours an iterative scientific approach to horticultural learning - and, having consequently killed more trees than Bolsonaro, is keen to share his accumulated knowledge of What Not To Do.
 
 </details>
 
-## Intro to bonsai (on the cheap)
+## Course summary
+
+| **Section** | **Type** | **Time (mins)**
+|----------------------------------|-----------|-----------|
+| *Bonsai background* |   | Total: 40 |
+| Why we appreciate bonsai | Theory | 10 |
+| Bonsai display appreciation | Practical | 10 |
+| How we appreciate bonsai | Theory | 10 |
+| Seeing with new eyes | Practical | 10 |
+| *Bonsai overview* |   | Total: 30 |
+| The bonsai lifecycle | Theory | 10 |
+| Doing it on the cheap | Theory | 5 |
+| Choose your bonsai & pot | Practical | 15 |
+| *Bonsai care* |   | Total: 65 |
+| Watering | Theory | 10 |
+| Preparing your pot | Practical | 15 |
+| Pest control | Theory | 5 |
+| Heat / light / air | Theory | 10 |
+| Fertilising for health | Theory | 10 |
+| De-potting your bonsai | Practical | 15 |
+| *Bonsai development* |   | Total: 110 |
+| Cleaning & weeding | Theory | 5 |
+| Fertilising for growth | Theory | 5 |
+| Repotting & root pruning | Theory | 10 |
+| Anchoring your bonsai | Practical | 15 |
+| Covering your soil | Practical | 10 |
+| Pruning | Theory | 15 |
+| Designing your tree | Practical | 15 |
+| Wiring the trunk | Practical | 10 |
+| Wiring | Theory | 10 |
+| Pruning and wiring the branches | Practical | 15 |
+| *Wrap-up* |   | Total: 15 |
+| Where to get more info | Theory | 5 |
+| Any (more) questions | - | 10 (buffer) |
+
+
+## Bonsai background
 
 ### Why we appreciate bonsai
 + Bonsai brings nature into unnatural environments
@@ -30,6 +103,7 @@
 	- China: xxxx
 	- Japan: xxxx
 	- Bonsai diaspora: xxxx
+	- Compare and contrast: penjing, hon no bo, saikei
 + Bonsai has convenience
 	- ...At least compared to a full tree / garden
 	- xxxx Example: Alex's wall o' bonsai
@@ -38,8 +112,8 @@
 	- Tactile and artistic elements
 	- Become the god of a tiny world
 
-### Practical 1: Bonsai display
-+ Which is your favourite and why?
+### Practical 1: Bonsai display appreciation
++ Which bonsai is your favourite and why?
 + Do they look better from a particular angle?
 + Which ones look more natural (Japanese style) or grotesque (Chinese style)?
 
@@ -77,7 +151,9 @@ Quick wander round Walworth Gardens
 
 Alternatively, stay inside and flick through a bonsai book!
 
-### How bonsai get to that point:
+## Bonsai overview
+
+### The bonsai lifecycle
 + Created from non-bonsai "material"
 	- Choice of species
 		- Outdoor (Japanese style) vs indoor (Chinese style)
@@ -170,11 +246,11 @@ Alternatively, stay inside and flick through a bonsai book!
 	- Pot appropriate to style (e.g. deep pots for cascade)
 	- Speak to me before buying any trees so I can confirm that they're suitable
 
-## Caring for your bonsai
+## Bonsai care
 
-### Why is it so f***ing difficult?
-+ The practitioner is God... and this is the downside
-+ Must provide everything that trees usually get from the environment / ecosystem
++ Why is it so !"£% difficult?
+	- The practitioner is God... and this is the downside
+	- Must provide everything that trees usually get from the environment / ecosystem
 
 ### Watering
 + Significance
