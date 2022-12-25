@@ -2,90 +2,64 @@
 
 <details>
 
-## Meta - remove before release
+## Meta - hide/remove before sharing
+
+### About this content
+
+This folder contains courseware relating to my "Bonsai on a Budget" workshop, to be presented at Walworth Gardens in April '23.  Currently this is limited to my presenters' notes, but I hope to add useful images, diagrams, reference tables etc.
+
+I would very much like to produce a re-useable resource here, rather than yet another pile of personal notes.  Ideally the end-game would be to put together a reasonably comprehensive resource, a la Wikibooks, at least for the basics.
+
+Relatedly, I will probably end up licensing this under [CC-BY](https://choosealicense.com/licenses/cc-by-4.0/) or similar... but I can't commit to that yet because the repository may temporarily include more stringently-licensed files - e.g. scanned images from books - until I can replace them with my own content.  In the meantime, please drop me a line if you would like to reuse anything; it is almost certain that I'll say yes.
+
+### Components
++ This file: detailed outline of course (to be split out)
++ [Practical exercises](IntroPracticals.md): because they don't follow the same structure as the theory
++ [April 2023 event page](2023-04_WGIntro.md) for non-reuseable info
 
 ### To do
-
 + Finish first draft of outline
 + Identify most critical areas for course
-+ Sort out course budget and ordering reqs
 + Flesh out into training deck/notes + presenter's notes
 	- Make sure headings are aligned with summary
-+ Drag in additional preparatory info?  Materials etc
-
-### Course details
-
-See online [here].(https://walworthgarden.org.uk/workshop-events/bonsai-on-a-budget)
-
-Key details:
-+ 22 April 2023 (Saturday)
-	- i.e. when leaves are showing but before pre-summer growth is complete / irreversable
-+ 10:00 AM - 3:00 PM (i.e. 4 hours + lunch hour?)
-	- ...I did the maths and the course I have planned comes out to 4.5 hours.  D'oh.
-
-Blurb for future reference:
-
-> The ancient art of bonsai - growing trees in miniature - can be frustrating for first-timers and expensive for enthusiasts.
-
-> In this workshop, you'll learn how to keep a bonsai alive, healthy and attractive. We will identify cheap alternatives to some expensive traditional tools and materials, and help you seek out trees suitable for the beginner on a budget.
-
-> Together we will explore:
-
-> + The history and aesthetics of bonsai: what characteristics are prized by enthusiasts and why.
-
-> + How to find and select suitable trees and pots for use as bonsai starter material.
-
-> + How to keep a bonsai alive, and why this is so much harder than for a typical pot plant.
-
-> + Going beyond survival: the support a tree needs to thrive as a bonsai.
-
-> The workshop will provide you with hands-on experience of key bonsai activities such as repotting, wiring and pruning. You will go away with your very own beginner's bonsai... perhaps the first of your future collection!
-
-> This course is suitable for all levels of horticultural experience; no gardening experience required. Basic material will be provided, including appropriate seedlings, but participants are also welcome to bring their own.
-
-> If bringing a tree, please email us its species, approximate dimensions, and whether it has previously been treated as a bonsai after booking.
-
-"CV" for future reference:
-
-> Alex developed a bonsai addiction shortly before the pandemic, just in time to fill in for actual face-to-face contact. When not training under his instructor, the bonsai expert Mark d'Cruz, Alex favours an iterative scientific approach to horticultural learning - and, having consequently killed more trees than Bolsonaro, is keen to share his accumulated knowledge of What Not To Do.
++ Make bounty board of: tree photos/drawings; diagrams; tabular info
 
 </details>
 
 ## Course summary
 
-| **Section** | **Type** | **Time (mins)**
-|----------------------------------|-----------|-----------|
-| *Bonsai background* |   | Total: 40 |
-| Why we appreciate bonsai | Theory | 10 |
-| Bonsai display appreciation | Practical | 10 |
-| How we appreciate bonsai | Theory | 10 |
-| Seeing with new eyes | Practical | 10 |
-| *Bonsai overview* |   | Total: 30 |
-| The bonsai lifecycle | Theory | 10 |
-| Doing it on the cheap | Theory | 5 |
-| Choose your bonsai & pot | Practical | 15 |
-| *Bonsai care* |   | Total: 65 |
-| Watering | Theory | 10 |
-| Preparing your pot | Practical | 15 |
-| Pest control | Theory | 5 |
-| Heat / light / air | Theory | 10 |
-| Fertilising for health | Theory | 10 |
-| De-potting your bonsai | Practical | 15 |
-| *Bonsai development* |   | Total: 110 |
-| Cleaning & weeding | Theory | 5 |
-| Fertilising for growth | Theory | 5 |
-| Repotting & root pruning | Theory | 10 |
-| Anchoring your bonsai | Practical | 15 |
-| Covering your soil | Practical | 10 |
-| Pruning | Theory | 15 |
-| Designing your tree | Practical | 15 |
-| Wiring the trunk | Practical | 10 |
-| Wiring | Theory | 10 |
-| Pruning and wiring the branches | Practical | 15 |
-| *Wrap-up* |   | Total: 15 |
-| Where to get more info | Theory | 5 |
-| Any (more) questions | - | 10 (buffer) |
-
+| **Section**                      | **Type**  | **Time (m)** | Notes status |
+|----------------------------------|-----------|-----------|---------------|
+| *Bonsai background*              |           | *Total: 40* | *Incomplete* |
+| Why we appreciate bonsai         | Theory    | 10 | Incomplete |
+| Bonsai display appreciation      | Practical | 10 | Drafted |
+| How we appreciate bonsai         | Theory    | 10 | Incomplete |
+| Seeing with new eyes             | Practical | 10 | Drafted |
+| *Bonsai overview*                |           | *Total: 30* | *Incomplete* |
+| The bonsai lifecycle             | Theory    | 10 | Incomplete |
+| Doing it on the cheap            | Theory    | 5 | Drafted |
+| Choose your bonsai & pot         | Practical | 15 | Drafted |
+| *Bonsai care*                    |           | *Total: 65* | *Outlined* |
+| Watering                         | Theory    | 10 | Outlined |
+| Preparing your pot               | Practical | 15 | Outlined |
+| Pest control                     | Theory    | 5 | Outlined |
+| Heat / light / air               | Theory    | 10 | Outlined |
+| Fertilising for health           | Theory    | 10 | Outlined |
+| De-potting your bonsai           | Practical | 15 | Drafted |
+| *Bonsai development*             |           | *Total: 110* | *Incomplete* |
+| Cleaning & weeding               | Theory    | 5 | Outlined |
+| Fertilising for growth           | Theory    | 5 | Outlined |
+| Repotting & root pruning         | Theory    | 10 | Outlined |
+| Anchoring your bonsai            | Practical | 15 | Drafted |
+| Covering your soil               | Practical | 10 | Drafted |
+| Branch pruning                   | Theory    | 15 | Incomplete |
+| Designing your tree              | Practical | 15 | Drafted |
+| Wiring the trunk                 | Practical | 10 | Not started |
+| Wiring bonsai                    | Theory    | 10 | Not started |
+| Pruning and wiring branches      | Practical | 15 | Barely started |
+| *Wrap-up*                        |           | *Total: 15* | *Incomplete* |
+| Where to get more info           | Theory    | 5 | Incomplete |
+| Any (more) questions             | - | 10 (buffer) | ??? |
 
 ## Bonsai background
 
@@ -112,13 +86,8 @@ Blurb for future reference:
 	- Tactile and artistic elements
 	- Become the god of a tiny world
 
-### Practical 1: Bonsai display appreciation
-+ Which bonsai is your favourite and why?
-+ Do they look better from a particular angle?
-+ Which ones look more natural (Japanese style) or grotesque (Chinese style)?
-
 ### How we appreciate bonsai
-- Styles
++ Styles
 	- Japanese styles: xxxx show pictures here
 	- Chinese styles: xxxx show pictures here
 	- Bunjingi: Japanese style based on imported Chinese ([Southern Song](https://en.wikipedia.org/wiki/Southern_School)) woodcuts
@@ -143,23 +112,16 @@ Blurb for future reference:
 		- Appearance of austerity: "the art that conceals art"
 		- Kodak moments, long before Kodak!
 
-### Practical 2: Seeing with new eyes
-Quick wander round Walworth Gardens
-+ Mature trees: spot the features that make them look old
-+ Young trees: spot the _lack_ of these features
-+ Heavily styled trees: what would you need to do to produce a bonsai?
-
-Alternatively, stay inside and flick through a bonsai book!
-
 ## Bonsai overview
 
 ### The bonsai lifecycle
++ xxxx Lifecycle diagram
 + Created from non-bonsai "material"
 	- Choice of species
 		- Outdoor (Japanese style) vs indoor (Chinese style)
 			- Casual bonsai owners trying to keep an outdoor tree indoors is the single biggest killer of bonsai
 		- Broadleaf vs conifer
-		- Cladistic ~~tree~~ diagram
+		- xxxx Cladistic ~~tree~~ diagram
 	- Sources
 		- seeds (serious enthusiasts only!  Ignore "grow your own bonsai" kits)
 		- cuttings from mature bonsai
@@ -178,7 +140,7 @@ Alternatively, stay inside and flick through a bonsai book!
 	- Repotting - force a strong root ball rather than unnecessary deep/wide roots
 	- Pruning - recapitulate the natural history of branch death
 	- Wiring - recapitulate the natural history of branch strain / light-seeking
-+ ...Occasional drastic action
++ Occasional drastic action
 	- Extreme Styling™
 		- Trunk splitting
 		- Grafting
@@ -201,6 +163,7 @@ Alternatively, stay inside and flick through a bonsai book!
 	- Ornaments, accent plants and display rocks
 	- Last-minute fixes: moss, small branch wiring
 	- Stands & displays
+	- Photography technique
 	- ...This section not discussed further here (we're focused on survive+thrive)
 + End-of-life
 	- Resale
@@ -208,7 +171,6 @@ Alternatively, stay inside and flick through a bonsai book!
 		- Good record-keeping is important if you ever plan to sell on
 	- Soil from dead plants can often be recycled if dried and sieved
 	- ...This section not discussed further here (we're focused on survive+thrive)
-+ xxxx Lifecycle diagram
 
 ### Doing it on the cheap
 + Easy ways to start bonsai:
@@ -227,28 +189,9 @@ Alternatively, stay inside and flick through a bonsai book!
 + If your tree is healthy and attractive, how you got there is less important
 	- Corollary: real bonsai practitioners know their way round power tools >:-D
 
-### Practical 3: Choose your bonsai / pot
-+ Tree types on offer
-	- Bring your own (free, obviously)
-	- "Urban yamadori" samples (free)
-	- Selected cheaply-sourced trees... i.e. anything I spot at Tesco (free)
-	- Walworth Gardens stock (as priced)
-		- ... but we don't recommend you spend too much cos you're probably going to kill it
-+ Pot types on offer
-	- Improvised / "recycled" (free)
-	- Drilled china (free... especially if you bring your own!)
-	- Concrete (free)
-	- Plastic bonsai training pot (free? xxxx)
-	- Ceramic (as priced)
-+ Considerations
-	- The tree must in principle be able to fit in the pot!
-	- Pot appropriate to tree
-	- Pot appropriate to style (e.g. deep pots for cascade)
-	- Speak to me before buying any trees so I can confirm that they're suitable
-
 ## Bonsai care
 
-+ Why is it so !"£% difficult?
++ Why is it so !"£$% difficult?
 	- The practitioner is God... and this is the downside
 	- Must provide everything that trees usually get from the environment / ecosystem
 
@@ -283,21 +226,6 @@ Alternatively, stay inside and flick through a bonsai book!
 	1. Garden hose spray nozzle
 		- Easiest approach for large bonsai collections, but requires more up-front effort
 
-### Practical 4: Preparing your pot
-1. If needed, clean the pot in water, using a toothbrush to get rid of any encrusted dirt
-1. Cut a suitable chunk of mesh, and use short sections of 2mm wire to fix it in place over the drainage hole
-	- Repeat as needed if there are multiple holes
-	- If the pot is rectangular, oval or obround, make sure that the mesh wire(s) is pointing along the pot's central axis
-	- Trim any excess wire off with the bonsai wire-cutters
-		- This step isn't vital for newbies; it's just to stop loose ends of wire scratching a display surface
-1. Cut two longer sections of 1.5mm wire ("anchor wires") and push their ends up through the pot's drainage hole(s) (or wire holes if it has them)
-	- If the pot has wire holes or multiple drainage holes, run the wire between them
-	- If the pot has only one hole, make a V in the middle of each anchor wire and push them up straddling the mesh wire (one at each end)
-	- Attach the wires asymmetrically, with longer ends on one side of the pot and shorter ends on the other, so that you're not trying to twist the ends together directly over a root
-	- Don't cross anchor wires over each other underneath the pot
-1. Smooth the anchor wire against the sides of the pot, and fold the excess down over the rim
-	- I find it helpful to put an extra upwards bend in the longer wire, so that I can remember which was supposed to be which...
-
 ### Pest control
 + Significance
 	- Pest infestations are the third biggest killer of bonsai
@@ -320,7 +248,7 @@ Alternatively, stay inside and flick through a bonsai book!
 + Management
 	- Natural + focused: ladybirds, nematodes, predatory mites
 	- Natural + broad-spectrum: neem oil or similar
-	- Artificial: chemicals
+	- Artificial: synthetic pesticides
 
 ### Heat
 + Significance
@@ -382,27 +310,6 @@ Alternatively, stay inside and flick through a bonsai book!
 	- Mosses _are_ heavily affected by air-flow, but don't usually need much of it to be happy
 + Management: windows, fans
 
-### Practical 5: De-potting your bonsai
-1. Remove existing pot (taking off wire if needed) and place in tray provided
-1. Brush all moss, weeds and excess soil off top surface with chopstick
-	- This uncovers the nebari... or, for young trees, the lateral roots that will eventually help form it
-	- Keep an eye open for any signs of pests in the soil
-1. If trunk is dirty or moss-covered, clean with a damp toothbrush
-	- Moss on trunks looks cool but is bad for the tree's health
-1. Decide how you'd like the tree to sit in the pot
-	a. Angle: Usually we want the tree to emerge vertically, but a few styles get more creative
-	a. "Front": We must establish the direction from which the tree is intended to be viewed
-	a. Positioning: Asymmetric styles may work better with the tree off to one side
-	- This decision may need re-visiting if the roots don't behave like you expect; in the worst case you may have to change pot
-1. Trim off any roots that were growing along the sides of the pot
-1. Work the roots back to fit in the pot
-	1. Loosen dirt round the edges / bottom with chopstick
-	1. Trim off exposed roots with root shears (or nail scissors!)
-		- Big roots may need a branch cutter (or secateurs)
-		- _Really_ big roots may need a saw!
-	1. Repeat until tree fits in pot with 1/2 cm clearance at sides and bottom
-1. Squirt any exposed roots with water
-
 ## Developing your bonsai
 
 ### Cleaning & weeding
@@ -450,42 +357,7 @@ Alternatively, stay inside and flick through a bonsai book!
 		- Two years is the traditional consensus, but my instructor reckons that re-potting every year is better for mature bonsai
 		- Always re-pot if the tree has become pot-bound or if lots of roots are trying to escape out of the drainage holes
 
-### Practical 6a: Anchoring your bonsai
-1. Put a layer of (dry) bonsai soil along the bottom of the pot
-1. Position the tree as desired
-1. Fill in the gaps around the root ball with more soil
-1. Compress the soil down as much as possible
-	- Make a first attempt using your thumbs, adding more soil as needed
-	- Afterwards, tap the pot gently with a (non-metal) mallet or similar, to help the soil flow into any cavities
-	- If the root ball is a weird shape, a bit of fiddling with chopsticks may be required to fill in the gaps
-1. Grab one of the anchor wires' long end, guide it past the trunk, and pull it slowly and gently towards the short end until it hooks on the root ball.
-1. Pull the corresponding short end gently up until it also hooks on the root ball
-1. Gently twist the wires together with your fingers
-	- Ideally you should ensuring that the meeting point isn't directly on top of a root
-1. Repeat the last two steps with the other anchor wire
-1. Twist the wire ends together with pliers until all the slack is taken up
-	- This is tricky: you almost certainly will break a lot of wire as you learn!
-	- Pull the wire gently as you twist it, so that the newly taken up wire doesn't wrap on top of the previous twists
-	- Keep the twisted wire at the same angle to both single strands (the "bisector" in maths jargon) so that neither strand gets twisted more sharply than the other
-	- Broken wire can be patched together with an extra length of 1.5mm wire
-	- Traditionally you'd use "jin pliers" for this, but I find needle-tip pliers just as good
-1. Repeat the last step with the other anchor wire
-1. Remove any excess anchor wire
-	- It's generally best to retain 3-4 turns of the twisted wire
-	- You may want to snip off any _really_ excessive bits of wire before using the pliers to tighten it, so they don't smack into the tree every turn!
-1. Once the tree is anchored in place, thoroughly water the bonsai (e.g. by dunking)
-
-### Practical 6b: Covering your soil
-1. Grate some dry sphagnum through a xxxx cm mesh sieve
-	- We've done this bit for you
-1. Put a handful in a pot and mix with water
-	- Sphagnum absorbs a lot of moisture - if you can't see free water then you haven't added enough
-1. Transfer the mix a large pinch at a time to your pot, covering the entire surface with about 0.5cm of loosely-packed spagnum
-1. Gently press down with your fingers, squeezing the spagnum against the soil
-	- This also squeezes a lot of the water out of the sphagnum, which causes it to bind to itself like pressed felt
-	- If you've got a big patch of soil to cover, be careful that pushing on one side doesn't send soil flying out of another!
-
-### Pruning
+### Branch pruning
 + Significance
 	- Pruning is what makes a bonsai look _right_
 	- Short inter-node distance
@@ -526,32 +398,25 @@ Alternatively, stay inside and flick through a bonsai book!
 	- Structural pruning: start or end of year
 + Timetable for indoor trees: there is no timetable, it's all as-needed!
 
-### Practical 7a: Designing the tree
-1. If you have a smartphone, look up some pictures of what an adult tree of your chosen species might look like in the wild
-	- Does it normally grow straight, or does it twist all over the place?
-	- Is the leaf dome tall and narrow or short and broad?
-	- Do the branches angle upwards or downwards as they leave the trunk?
-	- Do the branches follow a single curve or a series of stepped arcs?  Are the arcs up-and-out or down-and-in?
-1. Draw a doodle of how you'd like your tree to look, taking note of the positioning of major branches on its trunk
+## Where to get more info
 
-### Practical 7b: Wiring the trunk
-xxxx
+### Organisations
++ UK bonsai practitioners soc
++ Bonsai Kai
++ ???
 
-### Practical 7c: Pruning and wiring the branches
-1. Prune off any clearly unwanted branches
-1. xxxx
+### Reference books
 
-## Sourcing bonsai supplies
 
-### Soil
-xxxx
-
-### Sphagnum
-xxxx
-
-### Wire
-xxxx
-
-### Pots
-
-### Tools
+### Sourcing bonsai supplies
++ Common supplies:
+	- Soil
+	- Sphagnum
+	- Wire
+	- Pots
+	- Tools
++ Specialist bonsai shops:
+	- Kaizen
+	- Heron
++ WG may start selling bonsai consumables (soil, sphagnum, wire) if demand rises
++ Some items available cheap(er) on Amazon... but be careful what you compromise on!
