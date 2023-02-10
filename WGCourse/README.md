@@ -22,6 +22,49 @@ Relatedly, I will probably end up licensing this under [CC-BY](https://chooseali
 + Make bounty board of: tree photos/drawings; diagrams; tabular info
 	- Or stub in fake diagrams and use the issue tracker?
 
+#### Bounty board
+
+Diagrams
++ Bonsai lifecycle
++ Common species identification:
+	- outdoor bonsai
+	- indoor bonsai
+	- world map with climate bands and common tree origin markers?
+	- London self-seeded trees
+	- London weeds
+	- London pests (and non-pests)
++ Bonsai history timeline and/or map
++ Bonsai style diagrams (source from e.g. wikimedia commons?)
++ Tree science 101:
+	- enablers of growth
+	- limiters of growth
+	- types of growth
++ Proportion and area of effect for each nutrient
++ Causes of death:
+	- my first bonsai
+	- year 1 enthusiast
+	- experienced practitioner
++ Climate change 101 (for bonsai specialists):
+	- rising GST
+	- shifting climate bands
+	- London-specific results: see [UKCP](https://www.metoffice.gov.uk/research/approach/collaboration/ukcp/index)
++ Wild vs potted tree roots (?)
++ Standard pot layout (wire, mesh, soil, tree, sphag)
++ Wiring patterns (from base; two-branch; fork)
++ Pruning guide
++ Example "tree plans" - original tree pic + diagram + final tree pick
+
+Photos
++ Alex's wall o' bonsai
++ Japanese, Chinese and Nonsai groups of styles
+
+Technical appendices
++ Care sheet - DONE!
++ Detailed task guidance
+	- re-potting
+	- wiring
++ Table of low-budget substitutes
+
 </details>
 
 ### Components

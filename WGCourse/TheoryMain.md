@@ -9,6 +9,7 @@
 + In the longer term I'd like to break some of these sections out into separate MD files and rewrite them as prose rather than bullets, with the long-run goal of moving to R Bookdown or similar.
 
 ### To do
++ Add TOC
 
 </details>
 
@@ -41,8 +42,8 @@
 + Styles
 	- Japanese styles: xxxx show pictures here
 	- Chinese styles: xxxx show pictures here
-	- Bunjingi: Japanese style based on imported Chinese ([Southern Song](https://en.wikipedia.org/wiki/Southern_School)) woodcuts
-	- Misc others e.g. Pierneef style
+	- "Literati": Japanese style based on imported Chinese ([Southern Song](https://en.wikipedia.org/wiki/Southern_School)) woodcuts
+	- Misc others e.g. Pierneef style from African Savannahs
 + Qualities
 	- Appearance of age
 		- Ramification
@@ -61,7 +62,7 @@
 	- General Japanese-ness
 		- Minimalism: contra "I have made this longer than usual because I have not had time to make it shorter."
 		- Appearance of austerity: "the art that conceals art"
-		- Kodak moments, long before Kodak!
+		- Creating Kodak moments, long before Kodak!
 
 ## Bonsai overview
 
@@ -70,7 +71,7 @@
 + Created from non-bonsai "material"
 	- Choice of species
 		- Outdoor (Japanese style) vs indoor (Chinese style)
-			- Casual bonsai owners trying to keep an outdoor tree indoors is the single biggest killer of bonsai
+			- Casual bonsai owners trying to keep an outdoor tree indoors is possibly the biggest killer of outdoor bonsai
 		- Broadleaf vs conifer
 		- xxxx Cladistic ~~tree~~ diagram
 	- Sources
@@ -109,8 +110,8 @@
 	- ...This section not discussed further here (we're focused on survive+thrive)
 + Prepping for display
 	- Pot aesthetics
-		- shape/finish/decoration
-		- "masculine" vs "feminine"
+		- shape / finish / decoration
+		- "masculine" (heavy) vs "feminine" (light)
 	- Ornaments, accent plants and display rocks
 	- Last-minute fixes: moss, small branch wiring
 	- Stands & displays
@@ -119,8 +120,12 @@
 + End-of-life
 	- Resale
 		- Bonsai pricing gets very complicated!
-		- Good record-keeping is important if you ever plan to sell on
-	- Soil from dead plants can often be recycled if dried and sieved
+		- Good record-keeping is vital if you ever plan to sell on, especially with expensive pots/trees or unusual material
+	- Death
+		- Always take the time to understand what killed your tree!
+		- "Looks dead" doesn't always mean "is dead": scratch bark to check if the cambium is still green
+		- If some life remains, emergency cuttings can be taken or the tree can be restyled as jin
+		- Soil from dead plants can often be recycled if dried and sieved (unless dead of disease / pests)
 	- ...This section not discussed further here (we're focused on survive+thrive)
 
 ### Doing it on the cheap
@@ -148,9 +153,9 @@
 
 ### Watering
 + Significance
-	- Mis-watering is the second biggest killeer of bonsai
-	- Under-watering: root hairs (microscopic) die off
-	- Over-watering: root rot sets in (esp. when overcompensating for under-watering!)
+	- Mis-watering is probably the biggest killer of bonsai
+	- Under-watering: root hairs (microscopic) dry up and die off
+	- Over-watering: roots "drown" and die off (esp. when overcompensating for under-watering!)
 	- Trad. bonsai soil drains well but is esp. prone to drying out completely
 + When to water
 	- Back-of-hand test
@@ -191,11 +196,15 @@
 	- Grubs (e.g. vine weevil larvae/pupae)
 	- Ants
 	- (Some) nematodes
-+ Not all wrigglies are pests!
++ Diseases
+	- Root rot
+	- Fungal infection
++ Not all small organisms are pests!
 	- Earthworms
 	- Springtails
 	- Woodlice
 	- Ladybirds
+	- Mycorrhizal fungi
 + Management
 	- Natural + focused: ladybirds, nematodes, predatory mites
 	- Natural + broad-spectrum: neem oil or similar
@@ -240,15 +249,17 @@
 
 ### Fertilising for health
 + Significance
-	- Micronutrients are needed for day-to-day plant metabolism
+	- Secondary macronutrients and micronutrients are needed in small quantities for both growth and day-to-day cell metabolism
 	- Too little: leaves go funny colours, tree mysteriously dies
-	- Far too much: tree is poisoned
+	- _Far_ too much: tree is poisoned
++ Secondary macronutrients: calcium, caesium, sulphur
++ Micronutrients: boron, copper, iron, manganese, molybdenum, zinc, chlorine, nickel
 + Management
 	- High-quality organic fertilisers: biogold etc
 		- Pellets of organic matter (bonemeal etc)
 		- Fermented first - stops rodents eating them!
-	- Cheap commercial fertilisers: seaweed juice etc
-	- Plant tonics: xxxx can't really comment on these
+	- Cheap commercial fertilisers: seaweed extracts etc
+	- Plant tonics?
 
 ### Air circulation
 + Significance
@@ -257,11 +268,11 @@
 	- Too much: plant blows over or loses leaves
 + Is this a big deal?
 	- My instructor reckons good air-flow is necessary for plant health
-	- I'm not convinced it makes a difference for trees, except insofar as some pests dislike fresh air
-	- Mosses _are_ heavily affected by air-flow, but don't usually need much of it to be happy
+	- I'm not convinced it makes a difference for trees, except insofar as dust blocks photosynthesis and some pests dislike fresh air
+	- Mosses _are_ heavily affected by air-flow - they use it to determine at what height to stop growing - but they don't usually need much of it to be happy
 + Management: windows, fans
 
-## Developing your bonsai
+## Bonsai development
 
 ### Cleaning & weeding
 + Significance
@@ -282,92 +293,171 @@
 ### Fertilising for growth
 + Significance
 	- Without macronutrient infusions, a bonsai will at best stay as-is... and at worst wither and die
+		- ...Although deliberate starving may sometimes be used to encourage "desperation ploys" such as flower / fruit production and smaller leaves
 	- Too much fertiliser can build up in the soil and stop roots absorbing water via osmosis
 		- "Salt the earth" is an idiom for a reason!
-+  Macronutrients 
-	- Nitrogen: important for leaf growth
-	- Phosphorus (or P2O5 to be precise): important for root growth
-	- Potassium (or K2O): important for flower and fruit growth
++  Primary macronutrients 
+	- Nitrogen: important for leaf and stem growth
+	- Phosphorus (or P2O5 to be precise): important for flower / fruit and root growth
+	- Potassium (or K2O): important for general tree health
 	- Fertilisers are assessed by their "NPK values": N vs P2O5 vs K2O
 + Management
 	- Bonsai practitioners typically use a "balanced" fertiliser: e.g. "5-5-5" or "7-7-7"
 	- A lot of organic fertilisers are approximately balanced - good enough!
+		- Seaweed extracts tend to be low on phosphorus.  Not a problem for lawn feeds etc, since it builds up in the soil over time... but we bonsai practitioners replace our soil every couple of years!
 	- Cheap balanced liquid fertilisers readily available from stores
+		- ...But don't forget micronutrients and secondary macronutrients (per "bonsai care" section)!
 	- If fertilising heavily, keep an eye out for crystals forming on surface of soil
 
-### Repotting (including root pruning)
+### (Re)potting & root pruning
 + Significance
-	- Root pruning forces the creation of a strong root ball rather than unnecessary deep/wide roots
-		- We don't need tap-roots; we have wire!
-		- We don't need lateral roots (unless they look cool); we have watering cans!
-		- We don't want long roots; we have small pots!
+	- Potting into a bonsai-size pot forces the tree to operate in a limited space, which promotes dwarfism
+	- Regular re-potting (including back into the same pot!) gives us the opportunity to prune roots, check for pests, replace overly mushy soil, and generally clean up
+	- Regular root pruning forces the creation of a strong root ball rather than unnecessary deep/wide roots
+		- We don't _need_ tap-roots; we have wire!
+		- We don't _need_ lateral roots (unless they look cool); we have watering cans!
+		- We don't _want_ long roots; we have small pots!
 	- Failing to re-pot regularly can lead to trees becoming pot-bound, affecting water retention (cos there's no soil left to retain it!)
-+ Soil choice xxxx
+	- Many trees can have most of their roots cut off and be fine
+		- ...but with some exceptions: particularly yew.
++ Soil choice
+	- Soil is serious business: many bonsai masters view their soil mixes as closely-guarded secrets!
+	- Bonsai soil must:
+		- physically support the tree - needs to be solid and sticky
+		- allow the entry and exit of air and water - good drainage essential to avoid sliminess and drowned roots
+		- retain enough water (inc. dissolved nutrients) to keep the root hairs alive
+		- not have much nutrition - this will be provided separately!
+		- not cost a complete fortune
+	- Typical compost or UK garden soil won't cut it!
+	- Options for structural component:
+		- akadama-tsuchi ("red ball earth"): naturally-formed compacted clay pellets from Japan
+		- moler clay... aka pink cat litter!
+		- both these options also retain water via hydration rather than capillary action, which means less free water to drown roots
+		- typical garden clay is _not_ useable as it blocks the pores in the aeration component
+	- Options for aeration component
+		- horticultural pumice
+		- coir or shredded tree bark (but beware: this can provide extra nutrients as it decomposes, which may not be what you want)
+		- biochar: high-quality charcoal (_not_ barbecue residue!)
+	- Options for adding bulk cheaply
+		- horticultural grit or river sand (_not_ builder's sand!)
+		- small pebbles or gravel
+		- beware using too much filler; it adds little benefit and obstructs more useful components
+	- Options for ericaceous (acidity-loving) trees such as satsuki azalea
+		- sphagnum: mixed in with the soil, this gradually acidifies as as it decomposes
+		- kanuma-tsuchi (named after a city north of Tokyo): volcanic gravel 
+	- A basic mix would be something like 2/3 akadama, 1/3 pumice
 + Management
 	- Re-pot every one or two years
 		- Two years is the traditional consensus, but my instructor reckons that re-potting every year is better for mature bonsai
 		- Always re-pot if the tree has become pot-bound or if lots of roots are trying to escape out of the drainage holes
 
-### Branch pruning
+### Targeting growth via (branch) pruning
 + Significance
-	- Pruning is what makes a bonsai look _right_
-	- Short inter-node distance
-	- Ramification and fractal growth
-	- Can promote smaller leaf growth
+	- Pruning is what makes a bonsai look _right_:
+		- Short inter-node distance
+		- Ramification and fractal growth
+		- Can promote smaller leaf growth
 	- Stops the tree needing more water than the (small pot) roots can provide
-		- Tree branch-to-root ratio
-	- Shape / style
+		- Tree branch-to-root ratio has limits in both directions
+	- Prevents growth in unwanted areas (e.g. above the apex) frees up resources for growth in desirable areas (e.g. trunk thickness)
+	- Manages tree's shape / style
 		- Often trying to recapitulate an imaginary natural history of the tree
+		- Ideally, a bonsai is pruned (and wired - see next) to match the natural "habit" of a fully-grown tree
+		- However, art is more important than authenticity; there's no point producing a scientifically-accurate but very boring tree!  For example: honeysuckle or wisteria bonsai are _not_ very thin strands...
+	- Over-pruning can harm or even kill a tree
 + Management
-	- Broad-leaved trees
-		1. When shoots grow past about 5 nodes, trim tips
+	- The "rules" here are more like guidelines; ignore if they interfere with your goals for the tree!
+	- Four broad groups:
+		1. outdoor broad-leaved trees
+		1. indoor broad-leaved trees
+		1. coniferous trees with needle-like foliage (pine, spruce, yew)
+		1. coniferous trees with scale-like foliage (cypress, juniper)
+	- Outdoor broad-leaf
+		1. In Spring, when shoots have grown past about 5 nodes, trim their tips
 			- Prevents trees wasting effort on stuff you'll only cut off later
 			- Exception is if you _want_ the tree to grow more in that direction (i.e. trunk or primary branch)
-		1. When secondary budding ("Lammas growth") starts, prune back to 3 active (buddable) nodes for alternate-leaf species, or 2 active nodes for opposite-leaf species 
+		1. In late Summer, when secondary budding ("Lammas growth") starts, prune back so that each branch has three growth areas for buds
+			- This typically means three active - potentially bud-bearing - nodes for alternate-leaf species, or two active nodes (i.e. four possible buds, since we can't have half a node!) for opposite-leaf species
 			- Encourages "inner growth" (i.e. stops tree getting lanky)
-			- Third node is "sacrificial": intended to be removed at a later date
-		1. When growth is slow, but tree is not currently dormant, prune heavily if needed
-			- "Structural" pruning reduces tree size or changes formal style
+			- Third bud is "sacrificial": a spare shoot in case one of the others grows weakly or dies off
+		1. When growth is slow but tree is not currently dormant, prune heavily if needed
+			- "Structural" pruning reduces tree size or changes style
+			- Where branches have more than two sub-branches coming off them, remove the weakest
+			- Cut back branches that block a clear view of the trunk
+			- Trim branches that stick out too far from the rest of the foliage, changing the tree's outline
 		1. Remove unwanted growth as it appears, including:
-			- excess shoots from "congested" nodes - i.e. those that already have enough growth
+			- excess shoots from "congested" nodes - i.e. those that already have enough branches/twigs coming out of them
 			- unwanted "adventitious" shoots - i.e. those that appear randomly in the middle of a stretch of bark
 			- suckers rising from roots
-	- Conifers
+	- Indoor broad-leaf
+		- Mostly per outdoor broad-leaf
+		- Secondary budding isn't necessarily tied to the seasons; keep an eye on the tree's buds!
+		- Growth doesn't necessarily slow down, so structural pruning is performed throughout the year
+	- Needle conifers
 		- Making sure your conifer survives pruning
 			- In conifers, water is sucked up by pressure from the leaves/needles - without them, the tree dies of thirst!
 			- Thus, never cut off too many leaves and branches at once
 			- If cutting the trunk back, always make sure there is a strong branch below the cut
 			- Note that some conifers (esp. yews) are also sensitive to cutting off too much root mass at once
 		- Conifer branches are typically arranged into horizontal "pads", with clear gaps (negative space) between them
-			- A pad should start a little way out from the trunk, so prune off any small branches or leaves right next to it
-			- 
-		- xxxx still 
+			- A pad should start a little way out from the trunk, so prune off any small branches or needles on the trunk and upper branch
+			- Remove 
+	- Scale conifers
+		- Mostly per needle conifers
+		- Unlike needles, individual scales can't be easily plucked off the tree.  However, since scales are very short, we don't have to be careful not to damage them
+		- xxxx
 	- Remember: Don't sweat the small stuff!
-+ Timetable for outdoor deciduous trees
-	- Tip-trimming: early in year (optional)
-	- Lammas pruning: some time in summer
-	- Structural pruning: start or end of year
-+ Timetable for indoor trees: there is no timetable, it's all as-needed!
 
-## Where to get more info
+### Correcting shape via wiring
+
+## Additional resources
 
 ### Organisations
-+ UK bonsai practitioners soc
-+ Bonsai Kai
-+ ???
++ Associations
+	- [Federation of British Bonsai Societies](http://fobbsbonsai.co.uk/)
+	- [UK Bonsai Association](https://www.ukbonsaiassoc.org/)
++ Local(ish) groups
+	- [Bonsai Kai](https://www.bonsaikai.org.uk/) - endorsed by Alex!
+	- [TWickenham Bonsai Club](https://www.twbclub.uk/)
+	- [Waltham Forest Bonsai Club](https://wfbc-at.wixsite.com/wfbonsaiclub)
+	- Crawley Horticultural Society [Bonsai Group](https://www.crawleyhorticulturalsociety.org.uk/bonsai-group.php)
++ Local(ish) instructors
+	- _formerly_ [Mark d'Cruz](https://www.makebonsai.com/), but he's moving to Portugal
+	- [The Bonsai Shed](https://thebonsaished.com) (Andy Barber)
+	- [Saruyama Bonsai](https://saruyama.co.uk/) (Peter Warren)
+	- some bloke called Alex Labram, operating out of [Walworth Garden](https://walworthgarden.org.uk/)
 
-### Reference books
+### Informational sources
++ Video channels
+	- [Herons Bonsai](https://www.youtube.com/c/HeronsBonsaiUK) (Peter Chan)
+	- [Mă-Kè Bonsai](https://www.youtube.com/c/MaKeBonsai) (Mark d'Cruz)
+	- [Bonsai Releaf](https://www.youtube.com/c/BonsaiReleaf) - wonderful time-lapse videos
++ Bonsai websites
+	- [Bonsai Empire](https://www.bonsaiempire.com/) - good beginner info & care guides
+	- [Bonsai Science](https://bonsai-science.com/) - deeper background material
++ General silvics websites
+	- Royal Horticultural Society [Plant Types Database](https://www.rhs.org.uk/plants/types) - very good advice on tree care and natural habit
+	- [Silvics of North America](https://www.srs.fs.usda.gov/pubs/misc/ag_654/table_of_contents.htm) - free text; aimed more at foresters than gardeners or bonsaika but very encyclopaedic
++ Books
+	- Three broad classes of book: 
+		1. Bonsai basic info and techniques
+		1. Advanced skills and specialisations
+		1. Inspirational (intimidating!) photograph collections
+	- Bonsai basics:
+		- [Bonsai](https://www.dk.com/uk/book/9781409344087-bonsai/) (Peter Warren) - very clean and image-heavy presentation
+	- Advanced skills:
+		- [Bonsai Masterclass](https://store.herons.co.uk/Bonsai-Masterclass) (Peter Chan) - good intro to higher design principles
+		- xxxx
+	- Artistic inspiration
+		- xxxx
+	- RHS's [Lindley Library]() has a fair few bonsai books
 
-
-### Sourcing bonsai supplies
-+ Common supplies:
-	- Soil
-	- Sphagnum
-	- Wire
-	- Pots
-	- Tools
+### Bonsai supplies
 + Specialist bonsai shops:
-	- Kaizen
-	- Heron
-+ WG may start selling bonsai consumables (soil, sphagnum, wire) if demand rises
-+ Some items available cheap(er) on Amazon... but be careful what you compromise on!
+	- [Kaizen Bonsai](https://www.kaizenbonsai.com/shop) - good range of tools and soils
+	- [Herons Bonsai](https://www.herons.co.uk/) - huge pot selection
++ Generalist garden centres and plant shops:
+	- [Walworth Garden](https://walworthgarden.org.uk/) - good source of outdoor bonsai starter material
+		- WG may start selling bonsai consumables (soil, sphagnum, wire) if demand rises
+	- [PlantSocietree](https://www.plantsocietree.com/) - bonsai pots, half-height terracotta pots and "nonsai" indoor bonsai starter material
++ Some items, such as generic bonsai wire and chinese-brand tools, are available cheap(er) on Amazon, but be careful what you compromise on!  I keep finding the dry sphagnum I ordered has been adulterated with hay...

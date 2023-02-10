@@ -19,7 +19,7 @@ a. to allow me to tweak the timings without affecting content-related files
 </details>
 
 | **Section**                      | **Type**  | **Time (m)** | Notes status |
-|----------------------------------|-----------|-----------|---------------|
+|----------------------------------|-----------|:------------:|:---------------:|
 | *Bonsai background*              |           | *Total: 40* | *Incomplete* |
 | Why we appreciate bonsai         | Theory    | 10 | Incomplete |
 | Bonsai display appreciation      | Practical | 10 | Drafted |
@@ -36,17 +36,17 @@ a. to allow me to tweak the timings without affecting content-related files
 | Heat / light / air               | Theory    | 10 | Outlined |
 | Fertilising for health           | Theory    | 10 | Outlined |
 | De-potting your bonsai           | Practical | 15 | Drafted |
-| *Bonsai development*             |           | *Total: 110* | *Incomplete* |
+| *Bonsai development*             |           | *Total: 95* | *Incomplete* |
 | Cleaning & weeding               | Theory    | 5 | Outlined |
 | Fertilising for growth           | Theory    | 5 | Outlined |
-| Repotting & root pruning         | Theory    | 10 | Outlined |
+| (Re)potting & root pruning       | Theory    | 10 | Outlined |
 | Anchoring your bonsai            | Practical | 15 | Drafted |
 | Covering your soil               | Practical | 10 | Drafted |
-| Branch pruning                   | Theory    | 15 | Incomplete |
-| Designing your tree              | Practical | 15 | Drafted |
+| Targeting growth via pruning     | Theory    | 15 | Incomplete |
 | Wiring the trunk                 | Practical | 10 | Not started |
-| Wiring bonsai                    | Theory    | 10 | Not started |
+| Correcting shape via wiring      | Theory    | 10 | Not started |
 | Pruning and wiring branches      | Practical | 15 | Barely started |
 | *Wrap-up*                        |           | *Total: 15* | *Incomplete* |
-| Where to get more info           | Theory    | 5 | Incomplete |
+| Additional resources             | Theory    | 5 | Incomplete |
 | Any (more) questions             | - | 10 (buffer) | ??? |
+|                                  |           | *Total: 245* | *Close enough!* |
