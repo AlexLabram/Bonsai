@@ -1,4 +1,5 @@
 # Bonsai kanji reference
+
 ## Bonsai ("tray planting"): 盆栽
 As a Japanese learner, I’ve found it very hard to translate specialist bonsai texts: the English texts don’t give the kanji, and the Japanese texts don’t always have furigana.  This document is a cheat sheet drawn from a range of sources.  Corrections to [alex@m2cc.co.uk](mailto:alex@m2cc.co.uk).
 
@@ -74,6 +75,12 @@ Non-Japanese
 + Ikadabuki (raft): 筏吹き
 + Kawarigi (eccentric / style-free): 変わり木
 + Karamemiki (entwined trunks): 絡め幹 (???)
+
+## Deadwood features
++ Jin (barkless branch): 神
++ Shari (barkless trunk): 舎利
++ Uro (cavity): 虚
++ Sabamiki (split trunk): サバ幹
 
 From Shikoku News, possibly miscategorised:
 + Kata-eda (concentration of branches on one side of tree): 片枝
@@ -151,7 +158,6 @@ Presentation
 + Kiki-eda (xxxx): 利き枝
 + Kuitsuki-eda (xxxx): 食い付き枝
 + Keiseisō (xxxx): 形成層
-+ Sabamiki (xxxx): サバ幹
 + Sashi-eda (xxxx): 差し枝
 + Shita-eda (bottom branch): 下枝
 + Shinshō (xxxx): 新梢
