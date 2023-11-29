@@ -115,6 +115,7 @@ Soils
 + Uwa-tsuchi (xxxx): 上土
 + Kanuma-tsuchi (xxxx): 鹿沼土
 + Goro-tsuchi (xxxx): ゴロ土
++ Keto-tsuchi (xxxx): ケト土
 
 Additives
 + Tamahi (organic fertiliser ball): 玉肥
