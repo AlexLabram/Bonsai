@@ -1,8 +1,6 @@
 # Bonsai on a Budget
 
-This folder contains courseware relating to my "Bonsai on a Budget" workshop, to be presented at Walworth Gardens in April '23.
-
-Currently this is limited to my presenters' notes, but I hope to add useful images, diagrams, reference tables etc as I produce or obtain them.
+This folder contains courseware relating to my "Bonsai on a Budget" workshop, as presented at Walworth Garden in April '23 and '24.
 
 <details>
 
@@ -13,6 +11,8 @@ Currently this is limited to my presenters' notes, but I hope to add useful imag
 I would very much like to produce a re-useable resource here, rather than yet another pile of personal notes.  Ideally the end-game would be to put together a reasonably comprehensive resource, a la Wikibooks, at least for the basics.  (Alternatively, there's a pay-what-you-want site for technical books... which I've forgotten the URL of.  D'oh.)
 
 Relatedly, I will probably end up licensing this under [CC-BY](https://choosealicense.com/licenses/cc-by-4.0/) or similar... but I can't commit to that yet because the repository may temporarily include more stringently-licensed files (e.g. scanned images from books used as placeholders) until I can replace them with my own content.  In the meantime, please drop me a line if you would like to reuse anything; it is almost certain that I'll say yes.
+
+...As of 2024, I've surrendered to the need to produce a pretty Powerpoint deck in addition to any long-form writing.  The desire to bookify this remains, but it does make it easier to keep track of the big picture.  The below to-do list has not yet been updated.
 
 ### To do
 + Finish first draft of outline
@@ -67,9 +67,16 @@ Technical appendices
 
 </details>
 
-### Components
+### Walworth 2024 presentation
++ [As presented]() - warning: this is 20MB due to uncompressed photos!
++ [Live version]() - no photos; will be updated going forward
+
+Note that both slide decks are missing some later materials.  This isn't an accident: I'm still figuring out how best to break down the topic of pruning, so during the course I stuck to hands-on presentation rather than big-picture theory.  Once I've got a clear picture, I'll update the Live version.
+
+### Archive - Walworth 2023 materials
 + [Course contents listing](IntroContents.md): because this list includes the practicals, which may vary depending on course location and resources
 + [Bonsai theory](TheoryMain.md): the meat of the courseware
 + [Practical exercises](IntroPracticals.md): split off because they don't follow the same structure as the theory, and may vary slightly depending on course location and resources (e.g. if I start doing a higher-budget bonsai bootcamp)
 + [April 2023 event page](2023-04_WGIntro.md) for non-reuseable info
 
+These are scribbled bullet points intended mostly as presenter's notes. Once I've confirmed that nothing too important is missing from the slide decks, they'll be removed.
