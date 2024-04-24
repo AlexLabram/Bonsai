@@ -68,8 +68,8 @@ Technical appendices
 </details>
 
 ### Walworth 2024 presentation
-+ [As presented](https://github.com/AlexLabram/Bonsai/raw/main/WGCourse/Bonsai%20On%20A%20Budget%20%402024-04%41.pptx) - warning: this is 20MB due to uncompressed photos!
-+ [Live version](https://github.com/AlexLabram/Bonsai/raw/main/WGCourse/Bonsai%20On%20A%20Budget%20%40running%41.pptx) - no photos; will be updated going forward
++ [As presented](https://github.com/AlexLabram/Bonsai/raw/main/WGCourse/Bonsai%20On%20A%20Budget%20%282024-04%29.pptx) - warning: this is 20MB due to uncompressed photos!
++ [Live version](https://github.com/AlexLabram/Bonsai/raw/main/WGCourse/Bonsai%20On%20A%20Budget%20%28running%29.pptx) - no photos; will be updated going forward
 
 Note that both slide decks are missing some later materials.  This isn't an accident: I'm still figuring out how best to break down the topic of pruning, so during the course I stuck to hands-on presentation rather than big-picture theory.  Once I've got a clear picture, I'll update the Live version.
 
