@@ -1,6 +1,6 @@
-# Bonsai on a Budget
+# Bonsai Courseware
 
-This folder contains courseware relating to my "Bonsai on a Budget" workshop, as presented at Walworth Garden in April '23 and '24.
+This folder contains courseware relating to my "Bonsai on a Budget" workshop (presented at Walworth Garden) and other bonsai events from 2023 onwards.
 
 <details>
 
@@ -68,17 +68,17 @@ Technical appendices
 </details>
 
 ### Walworth 2024 presentation
-+ [As presented](https://github.com/AlexLabram/Bonsai/raw/main/WGCourse/Bonsai%20On%20A%20Budget%20%282024-04%29.pptx) - warning: this is 20MB due to uncompressed photos!
-+ [Live version](https://github.com/AlexLabram/Bonsai/raw/main/WGCourse/Bonsai%20On%20A%20Budget%20%28running%29.pptx) - no photos; will be updated going forward
++ [As presented](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/Bonsai%20On%20A%20Budget%20%282024-04%29.pptx) - warning: this is 20MB due to uncompressed photos!
++ [Live version](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/Bonsai%20On%20A%20Budget%20%28running%29.pptx) - no photos; will be updated going forward
 
 Note that both slide decks are missing some later materials.  This isn't an accident: I'm still figuring out how best to break down the topic of pruning, so during the course I stuck to hands-on presentation rather than big-picture theory.  Once I've got a clear picture, I'll update the Live version.
 
 ### Topic notes
-+ [Tools](https://github.com/AlexLabram/Bonsai/raw/main/WGCourse/Bonsai%20Tools.docx)
-+ [Fertilisers](https://github.com/AlexLabram/Bonsai/raw/main/WGCourse/Bonsai%20Fertilisers.docx)
-+ [Sources](https://github.com/AlexLabram/Bonsai/raw/main/WGCourse/Bonsai%20Sources.docx)
-+ [Pests](https://github.com/AlexLabram/Bonsai/raw/main/WGCourse/Bonsai%20Pests.docx)
-+ [Mosses](https://github.com/AlexLabram/Bonsai/raw/main/WGCourse/Bonsai%20Mosses.docx)
++ [Tools](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/Bonsai%20Tools.docx)
++ [Fertilisers](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/Bonsai%20Fertilisers.docx)
++ [Sources](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/Bonsai%20Sources.docx)
++ [Pests](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/Bonsai%20Pests.docx)
++ [Mosses](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/Bonsai%20Mosses.docx)
 
 These are up-to-date compilations of my understanding of each topic, on a relatively in-depth basis and from a bonsai practitioner's perspective.
 
