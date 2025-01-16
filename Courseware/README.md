@@ -67,9 +67,20 @@ Technical appendices
 
 </details>
 
-### Walworth 2024 presentation
-+ [As presented](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/Bonsai%20On%20A%20Budget%20%282024-04%29.pptx) - warning: this is 20MB due to uncompressed photos!
-+ [Live version](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/Bonsai%20On%20A%20Budget%20%28running%29.pptx) - no photos; will be updated going forward
+### Running version of presentation deck
++ [Powerpoint version](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/Bonsai%20On%20A%20Budget%20%28running%29.pptx)
++ [Most recent PDF snapshot](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/tags/Bonsai%202-Day%20A%20%282025-01-16%29.pdf)
+
+Look at this if you want my latest greatest thoughts!  The rest of the list is for historical reference in case someone wants a soft copy of precisely the deck they saw on the projector screen.
+
+The PDF version is the one linked to from my site's menu bar, FYI.
+
+### Walworth October 2024 presentation
++ Day A: [Powerpoint](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/tags/Bonsai%202-Day%20A%20%282024-10-12%29.pptx), [PDF](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/tags/Bonsai%202-Day%20A%20%282024-10-12%29.pdf)
++ Day B: [Powerpoint](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/tags/Bonsai%202-Day%20B%20%282024-10-13%29.pptx), [PDF](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/tags/Bonsai%202-Day%20B%20%282024-10-13%29.pdf)
+
+### Walworth April 2024 presentation
++ [As presented](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/tags/Bonsai%20On%20A%20Budget%20%282024-04%29.pptx) - warning: this is 20MB due to uncompressed photos!
 
 Note that both slide decks are missing some later materials.  This isn't an accident: I'm still figuring out how best to break down the topic of pruning, so during the course I stuck to hands-on presentation rather than big-picture theory.  Once I've got a clear picture, I'll update the Live version.
 
@@ -83,9 +94,9 @@ Note that both slide decks are missing some later materials.  This isn't an acci
 These are up-to-date compilations of my understanding of each topic, on a relatively in-depth basis and from a bonsai practitioner's perspective.
 
 ### Archive - Walworth 2023 materials
-+ [Course contents listing](IntroContents.md): because this list includes the practicals, which may vary depending on course location and resources
-+ [Bonsai theory](TheoryMain.md): the meat of the courseware
-+ [Practical exercises](IntroPracticals.md): split off because they don't follow the same structure as the theory, and may vary slightly depending on course location and resources (e.g. if I start doing a higher-budget bonsai bootcamp)
-+ [April 2023 event page](2023-04_WGIntro.md) for non-reuseable info
++ [Course contents listing](tags/IntroContents.md): because this list includes the practicals, which may vary depending on course location and resources
++ [Bonsai theory](tags/TheoryMain.md): the meat of the courseware
++ [Practical exercises](tags/IntroPracticals.md): split off because they don't follow the same structure as the theory, and may vary slightly depending on course location and resources (e.g. if I start doing a higher-budget bonsai bootcamp)
++ [April 2023 event page](tags/2023-04_WGIntro.md) for non-reuseable info
 
 These are scribbled bullet points intended mostly as presenter's notes. Once I've confirmed that nothing too important is missing from the slide decks, they'll be removed.
