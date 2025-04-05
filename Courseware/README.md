@@ -69,7 +69,7 @@ Technical appendices
 
 ### Running version of presentation deck
 + [Powerpoint version](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/Bonsai%20On%20A%20Budget%20%28running%29.pptx)
-+ [Most recent PDF snapshot](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/tags/Bonsai%20On%20A%20Budget%20%282025-01-16%29.pdf)
++ [Most recent PDF snapshot](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/tags/Bonsai%20On%20A%20Budget%20%282025-04-05%29.pdf)
 
 Look at this if you want my latest greatest thoughts!  The rest of the list is for historical reference in case someone wants a soft copy of precisely the deck they saw on the projector screen.
 
