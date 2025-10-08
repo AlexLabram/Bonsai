@@ -75,6 +75,11 @@ Look at this if you want my latest greatest thoughts!  The rest of the list is f
 
 The PDF version is the one linked to from my site's menu bar, FYI.
 
+# Phoenix Garden October 2025
++ Evening A: [Powerpoint](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/tags/Bonsai%20Evening%20A%20%282025-09-24%29.pptx), [PDF](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/tags/Bonsai%20Evening%20A%20%282025-09-24%29.pdf)
++ Evening B: [Powerpoint](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/tags/Bonsai%20Evening%20B%20%282025-10-01%29.pptx), [PDF](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/tags/Bonsai%20Evening%20B%20%282025-10-01%29.pdf)
++ Evening C: [Powerpoint](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/tags/Bonsai%20Evening%20C%20%282025-10-08%29.pptx), [PDF](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/tags/Bonsai%20Evening%20C%20%282025-10-08%29.pdf)
+
 ### Walworth October 2024 presentation
 + Day A: [Powerpoint](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/tags/Bonsai%202-Day%20A%20%282024-10-12%29.pptx), [PDF](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/tags/Bonsai%202-Day%20A%20%282024-10-12%29.pdf)
 + Day B: [Powerpoint](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/tags/Bonsai%202-Day%20B%20%282024-10-13%29.pptx), [PDF](https://github.com/AlexLabram/Bonsai/raw/main/Courseware/tags/Bonsai%202-Day%20B%20%282024-10-13%29.pdf)
